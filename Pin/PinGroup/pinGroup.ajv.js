@@ -1,6 +1,7 @@
 "use strict";
 const COMMON = require('../../../constants/Common');
 
+
 const PIN_GROUP_PROPERTIES = {
     id: {type: 'integer'},
     name: {type: 'string'},
